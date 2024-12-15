@@ -1,4 +1,3 @@
-import pytest
 from ones_and_zeroes import same_length
 
 
